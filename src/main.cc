@@ -27,7 +27,6 @@
 #include "unistd.h"
 
 #include "command_parser.h"
-#include "text_parser.h"
 
 using namespace rdp_tool;
 
