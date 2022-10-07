@@ -1,1 +1,1 @@
-# learngit
+kafka终端管理工具，使用linux文件系统命令行来实现kafka节点查找和修改操作。
